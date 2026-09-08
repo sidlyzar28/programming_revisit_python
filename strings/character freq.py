@@ -5,5 +5,7 @@ for char in text:
         freq[char]+=1
     else:
         freq[char]=1
+#for key in freq:
+#print(key,freq[key])
 for key,value in freq.items():
     print(key,value)
