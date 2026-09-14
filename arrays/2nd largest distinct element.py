@@ -1,4 +1,4 @@
-nn=int(input())
+n=int(input())
 arr=list(map(int,input().split()))
 largest=second=None
 for num in arr:
