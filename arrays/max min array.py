@@ -9,3 +9,7 @@ for i in range(1,n):
         min_num=num[i]
 print("The maximum number in the list is:",max_num)
 print("The minimum number in the list is:",min_num)
+
+
+
+    
