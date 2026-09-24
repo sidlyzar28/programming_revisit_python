@@ -7,6 +7,6 @@ for i in range(n):
         found=True
         break
 if found:
-    print(x,"found")
+    print(x,"found at index",i)
 else:
     print(x,"not found")
